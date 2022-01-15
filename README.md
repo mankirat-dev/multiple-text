@@ -17,7 +17,7 @@ allprojects {<br />
 dependencies {
 
     //multiple-text
-    implementation 'com.github.mankirat-dev:multiple-text:1.0.0'
+    implementation 'com.github.mankirat-dev:multiple-text:1.0.1'
 }
 
 
