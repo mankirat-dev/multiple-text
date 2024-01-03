@@ -12,6 +12,18 @@ allprojects {<br />
 }
 
 
+# In Settings gradle
+
+dependencyResolutionManagement {<br />
+    repositories {
+    
+        //multiple-text
+        maven { setUrl("https://jitpack.io") }
+        
+   }
+}
+
+
 # In app level gradle
 
 dependencies {
